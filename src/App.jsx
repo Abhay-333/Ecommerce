@@ -1,5 +1,3 @@
-import React, { useContext } from "react";
-import { ThemeDataContext } from "./context/ThemeContext";
 import ProductCard from "./components/ProductCard/ProductCard";
 
 const App = () => {
